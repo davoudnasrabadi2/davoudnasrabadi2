@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Davoud 👋</h1>
+<h1 align="center">I'm Davoud Nasrabadi</h1>
 <h3 align="center">Senior Software Engineer · Backend & Cloud · 10+ years building production systems</h3>
 
 <p align="center">
@@ -12,7 +12,6 @@
 ### 🚀 About me
 
 - 💼 **Lead Backend Developer** with **10+ years** of experience designing, building and scaling backend systems
-- 🌍 Working remotely for **PANTOhealth** (Berlin, Germany) — backend for railway infrastructure monitoring
 - ☁️ Deep focus on **Node.js**, **TypeScript** and **AWS** — distributed systems, messaging, and cloud-native architecture
 - 🧭 Leading infrastructure modernization and mentoring teams toward cleaner, more reliable systems
 - 🎓 **MSc in Software Engineering** — Ferdowsi University of Mashhad
