@@ -15,9 +15,6 @@
 - ☁️ Deep focus on **Node.js**, **TypeScript** and **AWS** — distributed systems, messaging, and cloud-native architecture
 - 🧭 Leading infrastructure modernization and mentoring teams toward cleaner, more reliable systems
 - 🎓 **MSc in Software Engineering** — Ferdowsi University of Mashhad
-- 🛠️ Co-founded a startup (Sibapal) early in my career — I enjoy owning products end to end
-- 🔭 Currently exploring: AI developer tooling, LiDAR-based localization, and JavaScript runtime internals
-
 ---
 
 ### 🧰 Tech stack
