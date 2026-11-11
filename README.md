@@ -1,4 +1,4 @@
-<h1 align="center">I'm Davoud Nasrabadi</h1>
+<h1 align="center">Davoud Nasrabadi</h1>
 <h3 align="center">Senior Software Engineer · Backend & Cloud · 10+ years building production systems</h3>
 
 <p align="center">
