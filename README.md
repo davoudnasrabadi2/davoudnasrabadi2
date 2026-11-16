@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About me
+### About me
 
 - 💼 **Lead Backend Developer** with **10+ years** of experience designing, building and scaling backend systems
 - ☁️ Deep focus on **Node.js**, **TypeScript** and **AWS** — distributed systems, messaging, and cloud-native architecture
@@ -17,7 +17,7 @@
 - 🎓 **MSc in Software Engineering** — Ferdowsi University of Mashhad
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 **Languages**
 <p>
@@ -56,7 +56,7 @@
 
 ---
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | Description |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub stats
+###  GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=davoudnasrabadi2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -78,7 +78,7 @@
 
 ---
 
-### 🤝 Let's connect
+###  Let's connect
 
 I'm always happy to talk about **backend architecture, cloud infrastructure, and developer tooling**.
 Open to interesting collaborations and senior / lead backend opportunities.
